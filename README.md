@@ -1,10 +1,11 @@
-# Getting Started with Create React App
+# NEWSISM - A DAILY NEWS APP
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+***Surf Daily headlines to your heart content
 
-## Available Scripts
+__here is a demo video run__
 
-In the project directory, you can run:
+![Demo App Run](/../public/App-Video-Display.mp4)
+
 
 ### `npm start`
 
